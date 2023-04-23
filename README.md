@@ -3,6 +3,7 @@ This is a machine learning project that aims to classify Instagram comments as p
 
 ## Dataset
 The dataset used for this project is the Sentiment140 dataset, which contains 1.6 million tweets in English labeled as positive or negative.
+https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download 
 
 ## Preprocessing
 The following preprocessing techniques were applied to the comments before training the model:
