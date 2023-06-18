@@ -1,5 +1,5 @@
 # Instagram Comment Classifier
-This is a machine learning project that aims to classify Instagram comments as positive or negative. The goal is to study the influence of negative comments on the popularity of a post.
+This is a machine learning project that aims to classify tweets as positive or negative. The goal is to study the influence of negative tweets on the popularity of a profile.
 
 ## Dataset
 The dataset used for this project is the Sentiment140 dataset, which contains 1.6 million tweets in English labeled as positive or negative.
