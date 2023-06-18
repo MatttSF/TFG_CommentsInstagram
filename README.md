@@ -14,12 +14,12 @@ Stop word removal
 Stemming and Lemmatization
 Handling contractions
 
-The classification models were XXXX
+The classification models were SVM, LSTM, Decision Tree
 
 ## Evaluation
-The model achieved an accuracy of XX% on the test set. A confusion matrix was generated to evaluate the performance of the model.
+The model achieved an accuracy of 78% on the test set. 
 
 ## Future Work
 Improve the model's performance by experimenting with different architectures and hyperparameters.
 Extend the model to classify comments in other languages.
-Explore the impact of different types of negative comments on the popularity of a post.
+Explore the impact of different types of negative comments on the popularity of a profile.
