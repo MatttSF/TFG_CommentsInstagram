@@ -1,4 +1,4 @@
-# Instagram Comment Classifier
+# Twitter Comment Classifier
 This is a machine learning project that aims to classify tweets as positive or negative. The goal is to study the influence of negative tweets on the popularity of a profile.
 
 ## Dataset
