@@ -1,5 +1,5 @@
 # Twitter Comment Classifier
-This is a machine learning project that aims to classify tweets as positive or negative. The goal is to study the influence of negative tweets on the popularity of a profile.
+This is a machine learning project that aims to classify tweets as positive or negative. The goal is to study the % of negative tweets on a different profiles.
 
 ## Dataset
 The dataset used for this project is the Sentiment140 dataset, which contains 1.6 million tweets in English labeled as positive or negative.
@@ -12,7 +12,6 @@ Noise suppression
 Tokenization
 Stop word removal
 Stemming and Lemmatization
-Handling contractions
 
 The classification models were SVM, LSTM, Decision Tree
 
